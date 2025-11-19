@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/campusx/titanic-single-sample-t-test
+
+https://www.kaggle.com/code/campusx/titanic-2-sample-t-test
