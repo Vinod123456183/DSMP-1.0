@@ -1,0 +1,177 @@
+Below is a **clean, practical learning roadmap of Machine Learning algorithms**, arranged from **most basic → most advanced**, in the **order you should learn them**.
+This is suitable for beginners and grows all the way to advanced ML & deep learning.
+
+> ⚠️ Note: There is no *single* “complete” list in the world, but this covers **all commonly used and industry-relevant ML algorithms**.
+
+---
+
+## 🧠 0. Prerequisites (Before ML)
+
+*(Learn alongside or before ML algorithms)*
+
+* Linear Algebra (vectors, matrices)
+* Probability & Statistics
+* Calculus (basic derivatives)
+* Python
+* NumPy, Pandas, Matplotlib
+
+---
+
+## 📘 1. Basic Machine Learning Algorithms (Start Here)
+
+### 🔹 Supervised Learning – Regression
+
+1. **Simple Linear Regression**
+2. **Multiple Linear Regression**
+3. **Polynomial Regression**
+4. **Ridge Regression**
+5. **Lasso Regression**
+6. **Elastic Net Regression**
+
+### 🔹 Supervised Learning – Classification
+
+7. **Logistic Regression**
+8. **k-Nearest Neighbors (KNN)**
+9. **Naive Bayes**
+10. **Decision Tree (Classification)**
+
+---
+
+## 📗 2. Intermediate Machine Learning Algorithms
+
+### 🔹 Tree & Ensemble Models
+
+11. **Decision Tree (Regression)**
+12. **Random Forest**
+13. **Extra Trees (Extremely Randomized Trees)**
+
+### 🔹 Support Vector Machines
+
+14. **Support Vector Machine (SVM – Linear)**
+15. **Kernel SVM (RBF, Polynomial)**
+
+### 🔹 Clustering (Unsupervised)
+
+16. **K-Means Clustering**
+17. **Hierarchical Clustering**
+18. **DBSCAN**
+
+---
+
+## 📙 3. Advanced Machine Learning Algorithms
+
+### 🔹 Boosting Algorithms
+
+19. **AdaBoost**
+20. **Gradient Boosting**
+21. **XGBoost**
+22. **LightGBM**
+23. **CatBoost**
+
+### 🔹 Dimensionality Reduction
+
+24. **Principal Component Analysis (PCA)**
+25. **Linear Discriminant Analysis (LDA)**
+26. **t-SNE**
+27. **UMAP**
+
+### 🔹 Probabilistic Models
+
+28. **Gaussian Mixture Models (GMM)**
+29. **Hidden Markov Models (HMM)**
+
+---
+
+## 📕 4. Advanced & Specialized ML
+
+### 🔹 Anomaly Detection
+
+30. **Isolation Forest**
+31. **One-Class SVM**
+32. **Local Outlier Factor (LOF)**
+
+### 🔹 Recommendation Systems
+
+33. **Collaborative Filtering**
+34. **Matrix Factorization**
+35. **ALS (Alternating Least Squares)**
+
+### 🔹 Time Series Algorithms
+
+36. **AR**
+37. **MA**
+38. **ARMA**
+39. **ARIMA**
+40. **SARIMA**
+41. **Prophet**
+
+---
+
+## 📓 5. Deep Learning (Advanced)
+
+### 🔹 Neural Network Basics
+
+42. **Perceptron**
+43. **Feedforward Neural Network (ANN)**
+44. **Backpropagation**
+
+### 🔹 Specialized Neural Networks
+
+45. **Convolutional Neural Networks (CNN)**
+46. **Recurrent Neural Networks (RNN)**
+47. **LSTM**
+48. **GRU**
+
+### 🔹 Advanced Deep Learning
+
+49. **Autoencoders**
+50. **Variational Autoencoders (VAE)**
+51. **GANs (Generative Adversarial Networks)**
+52. **Transformers**
+53. **BERT**
+54. **GPT Models**
+
+---
+
+## 📔 6. Reinforcement Learning (Expert Level)
+
+55. **Multi-Armed Bandits**
+56. **Markov Decision Processes (MDP)**
+57. **Q-Learning**
+58. **SARSA**
+59. **Deep Q Networks (DQN)**
+60. **Policy Gradient Methods**
+61. **Actor-Critic Models**
+62. **Proximal Policy Optimization (PPO)**
+
+---
+
+## ✅ Recommended Learning Order (Short Version)
+
+**Beginner Path**
+
+```
+Linear Regression → Logistic Regression → KNN → Naive Bayes → Decision Trees
+```
+
+**Intermediate Path**
+
+```
+Random Forest → SVM → K-Means → PCA → Gradient Boosting
+```
+
+**Advanced Path**
+
+```
+XGBoost → Neural Networks → CNN/RNN → Transformers → Reinforcement Learning
+```
+
+---
+
+## 🎯 If you want:
+
+* 📅 A **90-day ML learning plan**
+* 📚 **Best resources** for each algorithm
+* 🧠 **Which algorithms are used in real jobs**
+* 💻 **Hands-on project roadmap**
+
