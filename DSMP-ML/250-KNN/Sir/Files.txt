@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/campusx/knn-on-breast-cancer-dataset
+
+https://drive.google.com/file/d/1nGa-6YW7SISVroOd8GAY_kzSARERSZjL/view
